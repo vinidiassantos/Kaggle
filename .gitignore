@@ -1,0 +1,10 @@
+# Ignorar datasets
+data/
+
+# Ignorar cache e checkpoints
+__pycache__/
+*.ipynb_checkpoints
+*.csv
+
+# Ignorar arquivos temporários
+*.log
